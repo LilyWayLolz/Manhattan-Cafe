@@ -1,2 +1,1 @@
-Note: This project has been migrated to Codeberg. Go check it out over there!
-https://codeberg.org/LilyWayLolz/Manhattan-Cafe
+The Manhattan Cafe bot will be a discord bot capable of sending artwork of Manhattan Cafe randomly selected from Safebooru! More features may be added as well. 
