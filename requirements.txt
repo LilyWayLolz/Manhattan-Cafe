@@ -1,0 +1,4 @@
+py-cord
+audioop-lts
+lxml
+beautifulsoup4
